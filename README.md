@@ -19,6 +19,9 @@ Uma plataforma fullstack desenvolvida para demonstrar o processamento seguro e r
 * **Axios** (Integração HTTP)
 * **Lucide React** (Ícones)
 
+### **AI & Pair Programming**
+* **Google Gemini** (Arquitetura do projeto, suporte no código e documentação)
+
 ### **Infraestrutura**
 * **Docker** & **Docker Compose** (Containerização do RabbitMQ e serviços)
 
